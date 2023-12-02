@@ -1,2 +1,2 @@
 # TripleTenSuccess
-Taking a hard way but enjoy every path to make it work and having a good process.
+Taking a hard way is so difficult, but if enjoy every path of it with fun make it even better works and having a good process.
