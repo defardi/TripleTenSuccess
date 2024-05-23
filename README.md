@@ -16,4 +16,4 @@ The following are the results of the project I worked on while taking the traini
 | [Gym Churn Analysis](https://github.com/defardi/defri-tripleten/tree/Project-11) | Developing a Customer Retention Strategy at the Model Fitness Center | *seaborn, scipy, sklearn* |
 | [SQL](https://github.com/defardi/defri-tripleten/tree/Project-12) | Identify sales book profiles based on reviews and ratings from customers in making price offers for a new product | *pandas, sqlalchemy, matplotlib* |
 | [A/B Testing](https://github.com/defardi/defri-tripleten/tree/Project-13) | testing changes related to the introduction of an improved recommendation system | *pandas, seaborn, plotly* |
-| [Final Project E-Commerce Profiling](https://github.com/defardi/defri-tripleten/tree/Project-14) | identify customer profiles based on purchasing habits and group by RFM | *pandas, math, seaborn, scipy* |
+| [Final Project E-Commerce Profiling](https://github.com/defardi/defri-tripleten/tree/Project-Final) | identify customer profiles based on purchasing habits and group by RFM | *pandas, math, seaborn, scipy* |
