@@ -1,5 +1,5 @@
 # TripleTen By Defri
-The following are the results of the project I worked on while taking the training course at TripleTen. I have gained a lot of understanding, such as basic Python, data pre-processing, data analysis, business analysis, data storyteller, SQL, dashboard, etc.
+The following are the results of the project I worked on while taking the training course at TripleTen. I have gained a lot of understanding, such as basic Python, data pre-processing, data analysis, business analysis, data storyteller, SQL, dashboard, machine learning, etc.
 
 | Project | Description | Libraries |
 | ------- | ----------- | ------------------- |
