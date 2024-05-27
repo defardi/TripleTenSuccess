@@ -1,6 +1,2 @@
-# TripleTenSuccess
-Taking a hard way is so difficult, but if enjoy every path of it with fun make it even better works and having a good process.
-
-Project | Description | Libraries
-------- | ----------- | -------------------
-Debt Credit Scoring | .......... | *pandas*
+# Project 8 By Defri
+The following are the results of the project I worked on while taking the training course at TripleTen. Project 8 covered methods and tools for testing hypotheses. This project is about online shop.
