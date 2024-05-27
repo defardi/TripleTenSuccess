@@ -1,6 +1,2 @@
-# TripleTenSuccess
-Taking a hard way is so difficult, but if enjoy every path of it with fun make it even better works and having a good process.
-
-Project | Description | Libraries
-------- | ----------- | -------------------
-Debt Credit Scoring | .......... | *pandas*
+# Project 12 By Defri
+The following are the results of the project I worked on while taking the training course at TripleTen. Project 12 covered how to taking data from database and then we can bagan to analysing the data right on it.
