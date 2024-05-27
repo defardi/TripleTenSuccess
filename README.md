@@ -1,6 +1,2 @@
-# TripleTenSuccess
-Taking a hard way is so difficult, but if enjoy every path of it with fun make it even better works and having a good process.
-
-Project | Description | Libraries
-------- | ----------- | -------------------
-Debt Credit Scoring | .......... | *pandas*
+# Project 7 By Defri
+The following are the results of the project I worked on while taking the training course at TripleTen. Project 7 covered apply data analysis in business. business metrics and key performance indicators. use of data analysis in marketing analysis, and sales channels. This project is about how we managed to optimize business by analytical based on data.
