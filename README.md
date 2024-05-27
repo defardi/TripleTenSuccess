@@ -1,6 +1,2 @@
-# TripleTenSuccess
-Taking a hard way is so difficult, but if enjoy every path of it with fun make it even better works and having a good process.
-
-Project | Description | Libraries
-------- | ----------- | -------------------
-Debt Credit Scoring | .......... | *pandas*
+# Project 3 By Defri
+The following are the results of the project I worked on while taking the training course at TripleTen. Project 3 covered the basics of python where I learned about pre-processing from raw data. This project is about selling a car and finding out the sales results.
