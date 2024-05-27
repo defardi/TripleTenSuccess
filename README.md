@@ -1,6 +1,2 @@
-# TripleTenSuccess
-Taking a hard way is so difficult, but if enjoy every path of it with fun make it even better works and having a good process.
-
-Project | Description | Libraries
-------- | ----------- | -------------------
-Debt Credit Scoring | .......... | *pandas*
+# Project 5 By Defri
+The following are the results of the project I worked on while taking the training course at TripleTen. Project 5 covered the evaluation about the works of all i alredy done before into one project. This project is about Find out sales on the video game.
